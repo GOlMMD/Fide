@@ -1,0 +1,1600 @@
+<table class="profile-table profile-table_chart-table">
+                                <thead>
+                                <tr>
+                                    <th>Period</th>
+                                    <th>RTNG</th>
+                                    <th>GMS</th>
+                                    <th>RAPID RTNG</th>
+                                    <th>RAPID GMS</th>
+                                    <th>BLITZ RTNG</th>
+                                    <th>BLITZ GMS</th>
+                                </tr>
+                                </thead>
+                                <tbody><tr>
+			<td width="75" align="right">&nbsp;2024-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2834&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;8&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2888&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2024-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2827&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2888&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2024-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2827&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2888&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2024-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2827&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2888&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;18&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2024-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2828&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;12&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2886&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2024-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2823&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2886&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2024-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2823&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2886&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2024-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2823&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2886&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2024-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2823&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;43&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2886&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;21&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;8&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2818&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2887&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2829&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;16&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2818&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2887&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2818&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2887&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;14&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2818&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;6&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2887&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2835&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2825&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;19&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2887&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;18&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2835&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2829&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2858&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2853&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2829&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2858&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;27&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2853&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2852&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2853&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;3&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2852&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2852&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2852&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2852&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2852&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2023-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2859&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2852&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;21&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2859&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2834&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2859&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;6&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2834&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;3&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2834&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2861&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2834&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2864&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2834&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2830&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;26&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2864&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2828&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2864&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2864&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2864&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2864&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2865&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2022-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2865&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;21&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;1&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2842&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2890&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2842&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2890&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2842&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2890&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;14&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2842&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;8&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2890&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;2&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2021-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;1&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2020-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;4&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;21&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2884&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;31&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;2&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2886&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2865&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;18&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2870&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2849&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2828&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2876&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2849&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2828&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2876&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2849&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2828&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;20&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2882&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2895&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2920&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2895&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2920&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2875&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2895&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2923&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;18&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2861&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2869&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2954&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2869&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2954&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2869&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2954&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2869&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2954&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2019-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2835&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2869&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2954&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;21&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2835&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;12&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2903&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;3&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2939&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2835&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;6&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2939&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2939&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2839&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;19&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2939&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2842&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2939&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2842&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;8&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2939&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2843&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2939&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2843&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;18&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2965&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2843&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2965&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2843&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2965&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2843&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2965&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2018-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2834&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2880&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2965&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;21&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2908&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2986&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;16&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2909&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2826&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;6&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2909&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2827&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2909&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2822&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2909&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;18&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2822&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2919&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2899&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;27&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2896&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2832&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;7&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2896&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2838&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2896&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2838&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2896&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2838&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2896&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2017-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2840&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2896&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;21&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2840&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;12&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2906&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;4&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2873&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2853&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2894&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2873&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2853&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2894&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2873&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2857&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2894&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2873&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2857&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2894&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2873&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2894&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;18&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2873&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;36&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2878&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2915&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2851&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2878&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2915&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2851&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2878&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2890&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2851&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2878&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2890&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2844&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2878&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2890&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2016-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2844&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;18&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2878&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;2&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2890&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;2&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2834&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;7&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2873&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2878&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2850&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2873&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2878&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;21&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2850&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2853&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2853&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2853&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2914&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2876&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2933&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2876&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2933&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2847&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;2&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2933&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;2&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;7&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2865&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2015-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2863&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2870&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2877&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2877&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2855&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2948&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;30&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2827&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2882&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;1&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2827&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2827&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2881&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;5&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2827&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;5&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2014-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2870&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2870&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;6&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2862&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Jun&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2864&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2868&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;14&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Feb&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2872&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2013-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2861&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;8&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-Dec&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2848&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2848&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2843&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2843&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-Aug&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2845&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2856&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;39&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;9&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2837&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2835&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2835&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2012-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2835&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;17&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2011-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2826&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2011-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2823&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2011-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2821&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2011-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2815&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2011-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2815&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2011-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2814&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;17&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2010-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2802&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;14&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2010-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2826&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2010-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2826&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2010-May&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2813&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;0&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2010-Mar&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2813&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2010-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2810&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;16&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2009-Nov&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2801&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2009-Sep&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2772&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;10&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2009-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2772&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;12&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2009-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2770&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;27&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2009-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2776&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;17&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2008-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2786&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;31&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2008-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2775&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;16&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2008-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2765&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;27&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2008-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2733&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;37&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2007-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2714&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;25&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2007-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2710&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;19&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2007-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2693&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;27&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2007-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2690&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2006-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2698&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;46&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2006-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2675&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;27&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2006-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2646&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;13&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2006-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2625&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;40&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2005-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2570&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;32&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2005-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2528&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2005-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2548&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;22&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2005-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2553&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;35&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2004-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2581&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;23&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2004-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2567&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;32&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2004-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2552&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;35&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2004-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2484&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;45&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2003-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2450&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;36&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2003-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2385&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;25&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2003-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2356&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;19&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2003-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2279&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;12&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2002-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2250&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;33&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2002-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2214&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;19&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2002-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2163&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;14&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2002-Jan&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2127&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;12&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2001-Oct&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2072&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;19&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2001-Jul&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2084&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;11&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr><tr>
+			<td width="75" align="right">&nbsp;2001-Apr&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;2064&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;15&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="40" align="right">&nbsp;&nbsp;</td>
+			<td valign="top" width="30" align="right">&nbsp;&nbsp;</td>
+			</tr>
+		</tbody>
+		</table>
+		
